@@ -19,3 +19,5 @@
 <portlet:defineObjects />
 
 This is the <b>Aa Teste</b> portlet.
+
+Teste 
